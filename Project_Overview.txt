@@ -1,0 +1,42 @@
+
+OVERVIEW:
+This project simulates a banking governance workflow used to manage LEA (Law Enforcement Agency) investigation requests. It focuses on tracking case lifecycle, monitoring pending investigations, identifying SLA breaches, and providing operational visibility through dashboards.
+
+
+PROBLEM STATEMENT:
+Organizations handling investigation requests often face challenges such as:
+- Lack of centralized tracking system
+- Difficulty in monitoring pending cases
+- SLA breaches due to manual follow-ups
+- Limited visibility into investigation status
+
+
+SOLUTION:
+A structured tracking system was designed using a no-code database approach to:
+- Log and manage LEA requests
+- Assign cases to officers
+- Monitor case status and pendency
+- Identify SLA breaches
+- Provide dashboard-level reporting
+
+
+KEY MODULES:
+1. LEA Request Tracking
+2. Case Status Management
+3. SLA Monitoring
+4. Investigation Assignment
+5. Dashboard Reporting
+6. SOP Documentation
+
+
+TOOLS USED:
+- Baserow (Database + Dashboard)
+- Excel (Dataset creation)
+- Microsoft Word (SOP creation)
+
+
+OUTPUT:
+- Structured dataset of LEA cases
+- Visual dashboards (Pie chart, Bar chart)
+- SOP for investigation handling
+- Governance workflow simulation
